@@ -8,11 +8,11 @@
         "run": "bot.py"
     },
     "bot2": {
-        "source": "repo_link",
-        "branch": "master",
+        "source": "https://github.com/itsme123c/Tg-Leech-Bot",
+        "branch": "main",
         "env": {
-            "TOKEN": ""
+            "BOT_TOKEN": "7890436613:AAGjpLBXBQr8_9Js-SKp2DQMBkfpsXJs07s"
         },
-        "run": "run.sh"
+        "run": "Dockerfile"
     }
 }

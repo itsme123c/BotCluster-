@@ -1,11 +1,11 @@
 {   
     "bot1": {
-        "source": "repo_link",
-        "branch": "master",
+        "source": "https://github.com/itsme123c/FileToLink",
+        "branch": "main",
         "env": {
-            "TOKEN": ""
+            "TOKEN": "7825342391:AAFyHNUHeY4fC8jxS8iV_iuM-iDtdlQH_8Q"
         },
-        "run": "run.sh"
+        "run": "bot.py"
     },
     "bot2": {
         "source": "repo_link",

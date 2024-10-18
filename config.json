@@ -13,6 +13,6 @@
         "env": {
             "BOT_TOKEN": "7890436613:AAGjpLBXBQr8_9Js-SKp2DQMBkfpsXJs07s"
         },
-        "run": "Dockerfile"
+        "run": "main.py"
     }
 }

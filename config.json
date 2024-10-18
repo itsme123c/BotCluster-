@@ -3,59 +3,11 @@
         "source": "https://github.com/itsme123c/FileToLink",
         "branch": "main",
         "env": {
-            "TOKEN": "7825342391:AAFyHNUHeY4fC8jxS8iV_iuM-iDtdlQH_8Q"
+            "BOT_TOKEN": "7825342391:AAFyHNUHeY4fC8jxS8iV_iuM-iDtdlQH_8Q"
         },
         "run": "bot.py"
     },
     "bot2": {
-        "source": "repo_link",
-        "branch": "master",
-        "env": {
-            "TOKEN": ""
-        },
-        "run": "run.sh"
-    },
-    "bot3": {
-        "source": "repo_link",
-        "branch": "master",
-        "env": {
-            "TOKEN": ""
-        },
-        "run": "run.sh"
-    },
-    "bot4": {
-        "source": "repo_link",
-        "branch": "master",
-        "env": {
-            "TOKEN": ""
-        },
-        "run": "run.sh"
-    },
-    "bot5": {
-        "source": "repo_link",
-        "branch": "master",
-        "env": {
-            "TOKEN": ""
-        },
-        "run": "run.sh"
-    },
-    "bot6": {
-        "source": "repo_link",
-        "branch": "master",
-        "env": {
-            "TOKEN": ""
-        },
-        "run": "run.sh"
-    },
-    "bot7": {
-        "source": "repo_link",
-        "branch": "master",
-        "env": {
-            "TOKEN": ""
-        },
-        "run": "run.sh"
-    },
-    "bot8": {
         "source": "repo_link",
         "branch": "master",
         "env": {

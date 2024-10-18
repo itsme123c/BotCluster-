@@ -1,10 +1,10 @@
 {   
     "bot1": {
-        "source": "https://github.com/itsme123c/FileToLink",
+        "source": "https://github.com/itsme123c/Txt-leech-bot",
         "branch": "main",
         "env": {
-            "BOT_TOKEN": "7825342391:AAFyHNUHeY4fC8jxS8iV_iuM-iDtdlQH_8Q"
+            "BOT_TOKEN": "7890436613:AAGjpLBXBQr8_9Js-SKp2DQMBkfpsXJs07s"
         },
-        "run": "bot.py"
+        "run": "Dockerfile"
     }
 }
